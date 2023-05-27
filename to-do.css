@@ -19,16 +19,15 @@ aside{
 #date{
   color: rgb(153, 151, 151);
 }
-.button-container button{
-  height: fit-content;
-  border: 2px solid slategrey;
-  border-radius: 7px;
-  padding: 10px;
-  background-color: slategrey;
-  color: whitesmoke
+aside{
+  border-left: grey solid 1px;
+  height: 100vh;
+  padding-left: 20px;
 }
-.button-container button:hover{
-  box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
-  transform: translateX(4px);
+#aside-title{
+  border-bottom: grey solid 1px;
+}
+#title-1{
+  padding-top: 90px;
 }
 
